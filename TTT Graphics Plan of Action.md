@@ -45,13 +45,27 @@ TTT Graphics Plan of Action
     5.6 - Main Menu Settings icon-Button<br>
     5.7 - Main Menu Mute icon-Button<br>
     
-6) Pre-Battle Menus
+6) Settings Menu
+    
+    6.1 - Settings Tab Bar<br>
+    6.2 - Settings Window Box<br>
+    6.3 - Settings Basic Checkbox<br>
+    
 
-    6.1 -  
-7) Shop Menu
+7) Pre-Battle Menus
 
-    7.1) 
+    7.1 -  Team Selection SubMenu<br>
+    7.2 - Battlefield Preview SubMenu<br>
+    7.3 - Battle Forecast SubMenu<br>
+    7.4 - "Back Out" Button<br>
+    
+8) Shop Menu
 
+    8.1) Shopkeeper Inventory Box<br>
+    8.2) Divider (between player inventory and shopkeeper inventory)<br>
+    8.3) Item Info Panel<br>
+    8.4) Shopkeeper Portrait Panel<br>
+    8.5) Shop Title/Icon<br>
 
 
 ## Mid-Game
